@@ -1,0 +1,123 @@
+object F_Generico: TF_Generico
+  Left = 0
+  Top = 0
+  Caption = 'F_Generico'
+  ClientHeight = 578
+  ClientWidth = 977
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  KeyPreview = True
+  OldCreateOrder = False
+  Position = poScreenCenter
+  Visible = True
+  OnKeyDown = FormKeyDown
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 977
+    Height = 73
+    Align = alTop
+    TabOrder = 0
+    object btnPesquisar: TSpeedButton
+      Left = 831
+      Top = 1
+      Width = 145
+      Height = 71
+      Align = alRight
+      Caption = 'Pesquisar'
+      Flat = True
+      ExplicitLeft = 832
+      ExplicitTop = 2
+      ExplicitHeight = 119
+    end
+  end
+  object Panel2: TPanel
+    Left = 0
+    Top = 504
+    Width = 977
+    Height = 74
+    Align = alBottom
+    TabOrder = 1
+    object btnNovo: TSpeedButton
+      Left = 831
+      Top = 1
+      Width = 145
+      Height = 72
+      Align = alRight
+      Caption = 'Novo'
+      Flat = True
+      OnClick = btnNovoClick
+      ExplicitLeft = 96
+      ExplicitTop = 8
+      ExplicitHeight = 65
+    end
+    object btnSair: TSpeedButton
+      Left = 1
+      Top = 1
+      Width = 145
+      Height = 72
+      Align = alLeft
+      Caption = 'Sair'
+      Flat = True
+      OnClick = btnSairClick
+      ExplicitLeft = 96
+      ExplicitTop = 8
+      ExplicitHeight = 65
+    end
+    object btnDeletar: TSpeedButton
+      Left = 541
+      Top = 1
+      Width = 145
+      Height = 72
+      Align = alRight
+      Caption = 'Deletar'
+      Flat = True
+      OnClick = btnDeletarClick
+      ExplicitLeft = 96
+      ExplicitTop = 8
+      ExplicitHeight = 65
+    end
+    object btnEditar: TSpeedButton
+      Left = 686
+      Top = 1
+      Width = 145
+      Height = 72
+      Align = alRight
+      Caption = 'Editar'
+      Flat = True
+      ExplicitLeft = 96
+      ExplicitTop = 8
+      ExplicitHeight = 65
+    end
+  end
+  object gridGenerico: TDBGrid
+    Left = 0
+    Top = 73
+    Width = 977
+    Height = 431
+    Align = alClient
+    DataSource = dsGenerico
+    TabOrder = 2
+    TitleFont.Charset = DEFAULT_CHARSET
+    TitleFont.Color = clWindowText
+    TitleFont.Height = -11
+    TitleFont.Name = 'Tahoma'
+    TitleFont.Style = []
+  end
+  object qryConsulta: TFDQuery
+    Connection = dm_Geral.conGeral
+    Left = 272
+    Top = 304
+  end
+  object dsGenerico: TDataSource
+    DataSet = qryConsulta
+    Left = 288
+    Top = 248
+  end
+end

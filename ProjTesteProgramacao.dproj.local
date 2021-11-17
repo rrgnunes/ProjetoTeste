@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/08 20:42:31.000.075,=C:\Users\Rodrigo Nunes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 20:43:30.000.278,C:\Users\Rodrigo Nunes\Documents\Embarcadero\Studio\Projects\frmMain.pas=C:\Users\Rodrigo Nunes\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 20:43:30.000.278,C:\Users\Rodrigo Nunes\Documents\Embarcadero\Studio\Projects\frmMain.dfm=C:\Users\Rodrigo Nunes\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/08 20:44:06.000.869,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmMain.dfm=C:\Users\Rodrigo Nunes\Documents\Embarcadero\Studio\Projects\frmMain.dfm</Transaction>
+    <Transaction>2021/11/08 20:44:06.000.869,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmMain.pas=C:\Users\Rodrigo Nunes\Documents\Embarcadero\Studio\Projects\frmMain.pas</Transaction>
+    <Transaction>2021/11/08 20:44:21.000.163,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\ProjTesteProgramacao.dproj=C:\Users\Rodrigo Nunes\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/11/08 21:10:43.000.294,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 21:10:56.000.614,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmPessoa.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 21:10:56.000.614,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmPessoa.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.dfm</Transaction>
+    <Transaction>2021/11/08 21:11:15.000.441,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 21:11:19.000.024,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit2.pas</Transaction>
+    <Transaction>2021/11/08 21:11:21.000.503,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit3.pas</Transaction>
+    <Transaction>2021/11/08 21:11:23.000.707,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit4.pas</Transaction>
+    <Transaction>2021/11/08 21:11:33.000.005,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmProduto.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.dfm</Transaction>
+    <Transaction>2021/11/08 21:11:33.000.005,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmProduto.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 21:12:08.000.216,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmPontoVenda.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit2.pas</Transaction>
+    <Transaction>2021/11/08 21:12:08.000.216,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmPontoVenda.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit2.dfm</Transaction>
+    <Transaction>2021/11/08 21:12:46.000.488,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmRelVendas.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit3.dfm</Transaction>
+    <Transaction>2021/11/08 21:12:46.000.488,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmRelVendas.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit3.pas</Transaction>
+    <Transaction>2021/11/08 21:12:57.000.351,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmConfiguracao.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit4.dfm</Transaction>
+    <Transaction>2021/11/08 21:12:57.000.351,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmConfiguracao.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit4.pas</Transaction>
+    <Transaction>2021/11/08 21:16:15.000.526,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmConfiguracao.pas=</Transaction>
+    <Transaction>2021/11/08 21:16:53.000.506,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 21:17:06.000.449,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmConfiguracao.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.dfm</Transaction>
+    <Transaction>2021/11/08 21:17:06.000.449,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmConfiguracao.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 21:26:01.000.830,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit2.pas</Transaction>
+    <Transaction>2021/11/08 21:26:15.000.612,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit2.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmGenerico.pas</Transaction>
+    <Transaction>2021/11/08 21:26:15.000.612,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit2.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmGenerico.dfm</Transaction>
+    <Transaction>2021/11/08 21:35:24.000.002,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 21:36:17.000.068,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmPessoa.dfm</Transaction>
+    <Transaction>2021/11/08 21:36:17.000.068,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmPessoa.pas</Transaction>
+    <Transaction>2021/11/08 21:38:16.000.417,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/08 21:38:28.000.827,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\dmGeral.pas</Transaction>
+    <Transaction>2021/11/08 21:38:28.000.827,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\dmGeral.dfm</Transaction>
+    <Transaction>2021/11/09 08:40:21.000.902,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/09 08:40:40.000.585,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmGenericoManutencao.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/09 08:40:40.000.585,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmGenericoManutencao.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.dfm</Transaction>
+    <Transaction>2021/11/09 11:44:41.000.520,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/09 11:45:16.000.207,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/09 11:45:31.000.291,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmPessoaManutencao.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.dfm</Transaction>
+    <Transaction>2021/11/09 11:45:31.000.291,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmPessoaManutencao.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/11 16:46:47.000.862,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmProduto.pas=</Transaction>
+    <Transaction>2021/11/11 16:47:40.000.965,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/11 16:47:56.000.894,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmProduto.pas</Transaction>
+    <Transaction>2021/11/11 16:47:56.000.894,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmProduto.dfm</Transaction>
+    <Transaction>2021/11/11 16:54:12.000.825,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/11 16:54:27.000.610,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmProdutoManutencao.dfm</Transaction>
+    <Transaction>2021/11/11 16:54:27.000.610,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmProdutoManutencao.pas</Transaction>
+    <Transaction>2021/11/11 17:23:13.000.277,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmPontoVenda.pas=</Transaction>
+    <Transaction>2021/11/11 17:23:47.000.800,=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas</Transaction>
+    <Transaction>2021/11/11 17:24:07.000.571,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.pas=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmPontoVenda.pas</Transaction>
+    <Transaction>2021/11/11 17:24:07.000.571,C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\Unit1.dfm=C:\Users\Rodrigo Nunes\Documents\Teste Emprego Novo\frmPontoVenda.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="dmGeral.pas"/>
+    <File Path="dmGeral.dfm"/>
+    <File Path="frmConfiguracao.pas"/>
+    <File Path="frmConfiguracao.dfm"/>
+    <File Path="frmGenerico.pas"/>
+    <File Path="frmGenerico.dfm"/>
+    <File Path="frmGenericoManutencao.pas"/>
+    <File Path="frmGenericoManutencao.dfm"/>
+    <File Path="frmMain.pas"/>
+    <File Path="frmMain.dfm"/>
+    <File Path="frmPessoa.pas"/>
+    <File Path="frmPessoa.dfm"/>
+    <File Path="frmPessoaManutencao.pas"/>
+    <File Path="frmPessoaManutencao.dfm"/>
+    <File Path="frmPontoVenda.pas"/>
+    <File Path="frmPontoVenda.dfm"/>
+    <File Path="frmProduto.pas"/>
+    <File Path="frmProduto.dfm"/>
+    <File Path="frmProdutoManutencao.pas"/>
+    <File Path="frmProdutoManutencao.dfm"/>
+    <File Path="frmRelVendas.pas"/>
+    <File Path="frmRelVendas.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
